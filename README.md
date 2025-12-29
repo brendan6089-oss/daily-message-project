@@ -1,2 +1,18 @@
-# daily-message-project
-A personal coding project created by a college student. The project sends one or two automated SMS messages per day containing a personal message/quote for a family member. Messages are non-commercial, low volume, and for personal notification purposes only. This is a personal SMS project for my mother. I have their explicit consent to send daily messages. They can opt out by replying STOP.
+# Daily Support Message Project (Personal, Non-Commercial)
+
+This is a personal coding project created by a college student.
+
+## Purpose
+The project sends one automated SMS message per day containing a short personal or supportive quote to a single family member.
+
+## Message Details
+- Message type: Informational / personal notification
+- Frequency: One message per day
+- Volume: Very low
+- Commercial content: None
+
+## Consent
+The recipient is my mother and has provided explicit verbal consent to receive these daily messages.
+
+## Opt-Out
+The recipient can opt out at any time by replying STOP.
