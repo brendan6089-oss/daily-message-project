@@ -1,6 +1,8 @@
 # Daily Support Message Project (Personal, Non-Commercial)
 
-This is a personal coding project created by a college student.
+Created by **Brendan Clayden**, a college student.
+
+This is a personal coding project designed to send one automated SMS message per day containing a short supportive or personal quote to a consenting family member.
 
 ## Purpose
 The project sends one automated SMS message per day containing a short personal or supportive quote to a single family member.
