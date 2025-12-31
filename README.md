@@ -18,3 +18,6 @@ The recipient is my mother and has provided explicit verbal consent to receive t
 
 ## Opt-Out
 The recipient can opt out at any time by replying STOP.
+
+## Contact Information
+You can contact me at: brendan6089@yahoo.com
